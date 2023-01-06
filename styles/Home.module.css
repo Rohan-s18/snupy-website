@@ -1,10 +1,27 @@
 .main {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.jocs_home {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: left;
+  text-align: left;
+  padding: 6rem;
+  min-height: 100vh;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: large;
+}
+
+.bold {
+  font-weight: bold;
 }
 
 .description {
@@ -46,13 +63,38 @@
   max-width: 100%;
 }
 
+.pic_grid {
+  display: grid;
+  grid-template-columns: repeat(13, minmax(5%, auto));
+  width: var(--max-width);
+  max-width: 100%;
+}
+
+.list {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(100%, auto));
+  width: var(--max-width);
+  max-width: 100%;
+}
+
 .card {
   padding: 1rem 1.2rem;
   border-radius: var(--border-radius);
   background: rgba(var(--card-rgb), 0);
   border: 1px solid rgba(var(--card-border-rgb), 0);
   transition: background 200ms, border 200ms;
+  text-align: left;
 }
+
+.card_2 {
+  padding: 1rem 1.2rem;
+  border-radius: var(--border-radius);
+  background: rgba(var(--card-rgb), 0);
+  border: 1px solid rgba(var(--card-border-rgb), 0);
+  transition: background 200ms, border 200ms;
+  text-align: center;
+}
+
 
 .card span {
   display: inline-block;
