@@ -24,48 +24,44 @@ export default function Homepage(){
 
                 <p>
 
-                    The SNUPy project aims to bring Free Software to all users and developers through its open source 
-                    software products. These products currently vary from Machine Learning to close-to-metal libraries.  
-                     
-                    
-
-
-                    <br></br><br></br>
-
-                    Specifically, free software means users have the four essential freedoms: (0) to run the program, 
-                    (1) to study and change the program in source code form, (2) to redistribute exact copies, and 
-                    (3) to distribute modified versions.  
-
-                    <br></br><br></br>
-
-                    The SNUPy Project also aims to create learning modules for upcoming software developers so that they can learn 
-                    concepts in the field of Computer Science that most college programs and courses fail to do.  
-                    
-                    <br></br><br></br>
+                    SNUPy is a tech startup co-founded by Rachel Tjarksen and Rohan Singh. We specialize in providing customized 
+                    Natural Language Processing models using Transformer Models and other Machine Learning solutions. 
+        
 
                 </p>
 
-                <br></br> <br></br>
 
+                <br></br> <br></br>
+                    
                 <h2>
-                    The SNUPy Manifesto
+                    SNUPy Library
                 </h2>
 
                 <br></br>
 
                 <p>
 
-                    Software, like most forms of knowledge, must be freely accessible for everyone and should not be locked
-                    in a corporate codebase. 
+                    The SNUPy Python Library is an open source Machine Learning Toolkit that provides essential NLP and ML tools for 
+                    developers to work with and to make their own more complex ML and NLP models. 
+
+                </p>
+
+                <br></br> <br></br>
+
+                <h2>
+                    Community Work
+                </h2>
+
+                <br></br>
+
+                <p>
+
+                    We believe that software, like most forms of knowledge, must be freely accessible for everyone and should not be locked
+                    in a corporate codebase. So we plan on making our models publicly accessible on our github repository
 
                     <br></br>
                     <br></br>
 
-                    The Collegiate monopoly over the field of Computer Science must end. Making students recite what Dijkstra's 
-                    algorithm is, without knowing how to code it will only deteriorate the field.  
-
-                    <br></br>
-                    <br></br>
 
 
                 </p>
