@@ -62,7 +62,7 @@ export default function LabModules(){
                 <h3>Week 4 (Intro to Bash)</h3>
                 <p>
                     This lab module contains an intro to Bash Scripting this will include using echo commands, variables, 
-                    arithmetic operationsa and flow statements.
+                    arithmetic operations and flow statements.
                 </p>
             </div>
         </Link>
